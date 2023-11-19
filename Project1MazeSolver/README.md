@@ -8,11 +8,12 @@ This project is a Java application that solves mazes, based on Liang's Intro to 
 - Ability to manually block/unblock cells
 - Pathfinding visualization
 
-## Screenshots
-![Maze Solver GUI](./screenshot1.png)
-
 ## Challenges
 The big challenge was implementing the recursive pathfinding algorithm. ChatGPT helped me develop the backtracking part of the recursion, but other that pretty much most of the code was written by me. 
 
 ## Notes about efficiency
 The algorithm isn't very efficient. I haven't learned A* or anything like that yet. The only efficiency it has is that it won't make squares (4 cells, 2 on top of each other).
+
+## Screenshots
+![Maze Solver GUI](./screenshot1.png)
+
