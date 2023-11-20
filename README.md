@@ -8,5 +8,6 @@ A collection of projects made while going through Liang's Introduction to Java, 
    - Finds a path through a grid, avoiding blocked off squares
 
 ![Address Book Example](https://github.com/rybear927/BeginnerCodingProjects/blob/main/Project2SimpleAddressBook/addressBook.gif)
+
 2. [Project 2: Address Book](https://github.com/rybear927/BeginnerCodingProjects/tree/main/Project2SimpleAddressBook)
    - Stores and updates addresses, with various buttons for navigation
