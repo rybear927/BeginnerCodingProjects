@@ -11,9 +11,6 @@
  * Author: Ryan Hellmann
  * Date: 10/27/23
  * Version: 1.0
- * 
- * Note: This project is part of my portfolio to demonstrate my coding skills and understanding of JavaFX
- * and file handling in Java.
  */
 
 package Project2SimpleAddressBook;
