@@ -1,11 +1,20 @@
+/**
+ * Maze Class
+ * 
+ * This class represents a maze with functionalities to initialize, navigate, and modify it. 
+ * It includes methods for path finding, random cell blocking, and checking for valid moves.
+ * Part of the findPath method implementation involved assistance from ChatGPT for recursion logic.
+ * 
+ * Author: Ryan Hellmann
+ * Date: 11/19/23
+ * Note: Part of a project for learning and demonstrating recursion and array manipulation in Java.
+ */
+
 package Project1MazeSolver;
 
+//imports
 import java.util.Arrays;
 import java.util.Random;
-
-/*
-Creates an 8x8 grid and finds a path through it while avoiding blocked cells
- */
 
 public class Maze {
     private final int EMPTY = 0;
