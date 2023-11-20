@@ -3,7 +3,7 @@
 ## About the Project
 This project is a Java application that solves mazes, based on Liang's Intro to Java 12th ed, chapter 18, exercise 26. It uses a recursive algorithm to find a path from the start to the end of the maze.
 
-![MazeSolver Example](mazeExample.gif)
+![MazeSolver Example](mazeExampleSmall.gif)
 
 ## Features
 - Interactive GUI
