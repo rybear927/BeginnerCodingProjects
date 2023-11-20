@@ -1,5 +1,18 @@
+/**
+ * Maze Solver Application
+ * 
+ * This is a JavaFX application that visualizes the Maze class. It provides a graphical interface
+ * for interacting with the maze, including finding paths and manually blocking or unblocking cells.
+ * Features include a grid representation of the maze, path finding, and interactive cell modification.
+ * 
+ * Author: Ryan Hellmann
+ * Date: 11/19/23
+ * Note: Developed as an extension of the Maze class to demonstrate JavaFX capabilities.
+ */
+
 package Project1MazeSolver;
 
+//imports
 import javafx.application.Application;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
@@ -13,9 +26,6 @@ import javafx.scene.paint.Color;
 import javafx.scene.shape.Line;
 import javafx.scene.shape.Rectangle;
 import javafx.stage.Stage;
-
-
-
 
 public class MazeMain extends Application {
 
