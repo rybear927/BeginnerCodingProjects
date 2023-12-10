@@ -17,3 +17,8 @@ A collection of projects made while going through Liang's Introduction to Java, 
    - Simulates a Connect Four game
 
 ![Connect Four Example](https://github.com/rybear927/BeginnerCodingProjects/blob/main/Project3Connect4/connect4DemoMedium.gif)
+
+4. [Project 4: Knight's Tour](https://github.com/rybear927/BeginnerCodingProjects/tree/main/Project4Knight'sTour)
+   - GUI and logic for solving the Knight's Tour
+
+![Knight's Tour Example](https://github.com/rybear927/BeginnerCodingProjects/blob/main/Project4Knight'sTour/knightsTour.gif)
