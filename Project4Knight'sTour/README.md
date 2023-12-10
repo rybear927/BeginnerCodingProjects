@@ -14,6 +14,6 @@ on the board without going to any square twice)
 
 ## Challenges
 - I'm still learning about recursion and had to get help from chatgpt for a bit of the recursive logic. I knew nothing about
-- DropShadow or how to drag and drop and my book hasn't covered that yet, so chatgpt helped there too. I would say that aside
-- from that, the biggest challenge was adjusting to a bit longer of a program (~300 lines) than I'm used to making. Initially I
-- just made the logic work and then came back later and did the GUI step by step.
+  DropShadow or how to drag and drop and my book hasn't covered that yet, so chatgpt helped there too.
+- Another challenge was adjusting to a bit longer of a program (~300 lines) than I'm used to making. Initially I
+ just made the logic work and then came back later and did the GUI step by step.
